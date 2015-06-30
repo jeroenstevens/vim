@@ -10,7 +10,7 @@ syntax on
 au BufNewFile,BufRead *.json.jbuilder set ft=ruby
 
 "Schemes
-colorscheme mac_classic
+colorscheme monokai
 
 "Searching
 set hlsearch
