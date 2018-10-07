@@ -1,3 +1,16 @@
+
+"Essentials
+
+"Commands
+imap jk <Esc>
+
+"Cursor Navigation
+noremap H ^
+noremap L $
+noremap <c-j> 10j
+noremap <c-k> 10k
+"-------
+
 "Settings
 "General stuff
 let mapleader = " "
